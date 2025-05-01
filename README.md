@@ -50,7 +50,7 @@ You need to send a JSON object with the **continent**, **name**, **capital** of 
 	
 		- spring.datasource.url=jdbc:mysql://localhost:3306/{your_database_name}
 
-			- Replace {your_database_name} with the name of the database you created in Step 1 (e.g., todo).
+			- Replace {your_database_name} with the name of the database you created in Step 1 (e.g., country).
 
 		- spring.datasource.username={your_mysql_username}
 
